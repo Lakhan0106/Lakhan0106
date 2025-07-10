@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lakhan Raut</h1>
-<h3 align="center">Aspiring Data Scientist | Final Year Engineering Student</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Final Year Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan0106&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan0106" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Data Analysis, and SQL to build a strong foundation in Data Science.**
+- 🌱 I’m currently learning **Java, Spring Boot, Frontend Technologies (HTML, CSS, JavaScript, React), and MySQL to build a strong foundation in Full Stack Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lakhan0106](https://github.com/Lakhan0106)
 
-- 💬 Ask me about **Data Science, Python, SQL, Web Development, JavaScript, React, Node.js, and my learning journey in tech.**
+- 💬 Ask me about **Data Science, Python, SQL, Web Development, JavaScript, React, and my learning journey in tech.**
 
 - 📫 How to reach me **lakhanraut709@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/lakhan0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan0106" height="30" width="40" /></a>
 <a href="https://instagram.com/_lakhan_raut_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakhan_raut_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_lakhan_raut_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_lakhan_raut_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
