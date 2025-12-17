@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakhan Raut</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Final Year Engineering Student</h3>
+<h3 align="center">Final Year Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan0106&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan0106" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Frontend Technologies (HTML, CSS, JavaScript, React), and MySQL to build a strong foundation in Full Stack Development.**
+- 🌱 I’m currently learning **AI Tool and Automation to build a strong foundation in AI Automation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lakhan0106](https://github.com/Lakhan0106)
 
